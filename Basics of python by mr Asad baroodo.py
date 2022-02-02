@@ -1,5 +1,7 @@
-name = "asad\n"
-fathers_name = "Abdirahman\n"
-country_from = "Somalia\n"
-mothers_name = "Ga'alo\n"
-print(name, country_from, fathers_name, mothers_name)
+a = "Introducing my self, who Am I?\n"
+x = "my name is Asad.\n"
+y = "I'm student at ISBAT university kampala.\n"
+n = "I'm doing faculty of networking and cyber security.\n"
+m = "and I also know some programming language such us Python, C programming and HTLM.\n"
+
+print(a,x,y,n,m)
